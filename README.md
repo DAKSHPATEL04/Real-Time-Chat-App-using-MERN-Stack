@@ -1,6 +1,7 @@
 #  Real-Time Chat App in MERN Stack
 
-![Screenshot (98)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-in-MERN-Stack/assets/160720470/974a5cd1-2179-484b-91f0-8c2bcab45c4f)
+![Screenshot (98)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-using-MERN-Stack/assets/160720470/38d6aafb-dee4-488f-80cc-5685f12571fe)
+
 
 
 # Description:
@@ -9,10 +10,12 @@ The "Real-Time Chat App in MERN Stack" is a modern and feature-rich web applicat
 
 # Login
 
-![Screenshot (96)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-in-MERN-Stack/assets/160720470/4f78cec6-02c8-44bf-988e-ed5a8e9cec5c)
+![Screenshot (96)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-using-MERN-Stack/assets/160720470/0821b9eb-c660-46ac-a529-a1b221a7cfae)
 
 
-![Screenshot (97)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-in-MERN-Stack/assets/160720470/641eafe9-c653-4b9d-8682-84232390c2b7)
+
+![Screenshot (97)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-using-MERN-Stack/assets/160720470/c2408376-e2f6-4957-99ff-41b130724e75)
+
 
 
 # Key Features:
@@ -36,7 +39,8 @@ The "Real-Time Chat App in MERN Stack" is a modern and feature-rich web applicat
 4. Node.js: JavaScript runtime environment for executing server-side code and handling backend operations.
 5. Socket.IO: Library for real-time bidirectional event-based communication between clients and the server.
 
- ![Screenshot (99)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-in-MERN-Stack/assets/160720470/b87fd9b2-cb86-4f5f-9591-e355ad65907f)
+![Screenshot (99)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-using-MERN-Stack/assets/160720470/2ed4cbe5-28e7-415e-9eda-6fff66b08509)
+
 
 
  # How to Use:
@@ -47,7 +51,7 @@ The "Real-Time Chat App in MERN Stack" is a modern and feature-rich web applicat
  5. Access the Chat App: Open your web browser and navigate to the specified URL to access the chat application.
  6. Register/Login: Create a new user account or log in with existing credentials to start chatting with other users in real-time.
 
-![Screenshot (101)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-in-MERN-Stack/assets/160720470/3724787a-f981-4a3a-92d9-84540fda9ef5)
+![Screenshot (101)](https://github.com/DAKSHPATEL04/Real-Time-Chat-App-using-MERN-Stack/assets/160720470/31903ed8-298a-44ee-94af-be2365f40b91)
 
 
 # Contributing:

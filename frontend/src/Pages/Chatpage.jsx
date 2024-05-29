@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from "react";
 import { ChatState } from "../../Context/ChatProvider";
 import { Box } from "@chakra-ui/react";
